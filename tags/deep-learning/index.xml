@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on My Portfolio</title>
+    <link>https://abhishek-jana.github.io/aiwithabhi/tags/deep-learning/</link>
+    <description>Recent content in deep learning on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a Biometric Authenticator Using Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</link>
+      <pubDate>Mon, 03 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</guid>
+      <description>What is biometric authentication? Biometric authentication is a mode of verifying a user based on some part of their physical features. Authentication is different from identification, where biometrics such as fingerprint, face, retina scan, etc. are used to identify a person. In authentication, biometrics are used to verify if a user is what they are claiming to be.
+Importance of biometric authenticator This is one of the most popular forms of security when it comes to digital identity.</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/skills/dl/</guid>
+      <description>Deep Learning:
+Proficient in PyTorch and Keras, I specialize in developing and fine-tuning deep learning models for tasks such as image classification, natural language processing, and computer vision.
+Artificial Neural Networks (ANN) Convolutional Neural Networks (CNN) Recurrent Neural Networks (RNN) Long Short-Term Memory (LSTM) Transfer Learning Autoencoders Necessary DL Tools:
+Pandas: A data manipulation library that provides easy-to-use data structures and data analysis tools. NumPy: A powerful library for numerical computing in Python, providing support for large, multi-dimensional arrays and mathematical functions.</description>
+    </item>
+    
+  </channel>
+</rss>
