@@ -6,7 +6,44 @@
     <description>Recent content in Abhishek Jana on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Dec 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://abhishek-jana.github.io/aiwithabhi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movie Recommendation System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</link>
+      <pubDate>Tue, 27 Jun 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</guid>
+      <description>PROJECT REPORT: MOVIE RECOMMENDATION SYSTEM CONCEPT The Movie Recommendation System project aims to develop a movie recommendation system that suggests movies to users based on their preferences. The objective is to provide personalized movie recommendations using various recommendation methods, including content-based filtering (most popular movies), collaborative filtering, and user-specific recommendations.
+DATA The movie data for this project is gathered from the following sources:
+MovieLens: 27,000,000 ratings and 1,100,000 tag applications applied to 58,000 movies by 280,000 users.</description>
+    </item>
+    
+    <item>
+      <title>Secure architecture for biometric authentication</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub3/</link>
+      <pubDate>Thu, 30 Mar 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub3/</guid>
+      <description>Inventors: George T Amariucai, Pascal Hitzler, Abhishek Jana, Monireh Ebrahimi, Md Kamruzzaman Sarker
+Patent office: US
+Year: 2023
+Link: Link to Patent
+Abstract: Computer-implemented methods, systems and computer-readable media for building and using an artificial intelligence model for secure biometric authentication. Utilizing difference vectors, the model securely relates output vectors generated from noisy biometric data of a plurality of enrolled users to pre-defined fixed points in a vector space.</description>
+    </item>
+    
+    <item>
+      <title>Constraining Galaxy Halo Connection Using Machine Learning</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub2/</link>
+      <pubDate>Sun, 15 Jan 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub2/</guid>
+      <description>Authors: Abhishek Jana, Lado Samushia
+Conference/Journal: American Astronomical Society Meeting Abstracts
+Year: 2023
+Link: Link to Publication
+Abstract: We investigate the possibility of modeling various measures of small-scale galaxy clustering with machine learning methods to constrain parameters of the halo occupation distribution (HOD) model. Using ML techniques results in faster Markov Chain Monte Carlo convergence (within minutes). We find that great care must be taken when using machine learning algorithms in this regime.</description>
+    </item>
+    
     <item>
       <title>Using NLP in Disaster Response</title>
       <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</link>
@@ -27,6 +64,51 @@ This is one of the most critical problems in data science and machine learning. 
     </item>
     
     <item>
+      <title>Disaster Response Pipeline</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</link>
+      <pubDate>Sat, 23 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</guid>
+      <description>PROJECT REPORT: DISASTER RESPONSE PROJECT Web Interface CONCEPT
+The goal of the Disaster-Response-Pipeline project was to develop a machine learning pipeline that could accurately categorize emergency messages received during a disaster event. The objective was to create an automated system that could quickly identify and classify relevant messages, enabling emergency responders to prioritize and respond effectively to different types of emergencies.
+DATA
+The dataset used for this project was obtained from Figure Eight, now Appen, and consisted of labeled text messages related to various disaster scenarios.</description>
+    </item>
+    
+    <item>
+      <title>Fingerprint Verification System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</link>
+      <pubDate>Sun, 03 Jul 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</guid>
+      <description>PROJECT REPORT: FINGERPRINT VERIFICATION SYSTEM Led a team of six data scientists and engineers to design and implement a highly secure biometric user authentication system using Neural Fuzzy Extractor (NFE) and Artificial Neural Networks (ANN), achieving a marginal improvement in the equal error rate (EER) from 5.75% to 5.82%, while ensuring minimal loss of FVC2006 fingerprint data. Enhanced the precision of the fingerprint data by formulating a robust deep learning algorithm, specifically a Siamese Network with a triplet loss function, resulting in an Area Under Curve (AUC) score of 0.</description>
+    </item>
+    
+    <item>
+      <title>Rental Bike Share</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</link>
+      <pubDate>Mon, 27 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</guid>
+      <description>PROJECT REPORT: RENTAL BIKE SHARE This is an ongoing project. Please visit the GitHub repository: GitHub link to get the latest progress.
+CONCEPT
+The Rental Bike Share project aims to develop a system for managing and optimizing the rental of bikes in a city. The goal is to provide a user-friendly platform that allows users to easily rent bikes and helps the bike rental company in efficiently managing their inventory and operations.</description>
+    </item>
+    
+    <item>
+      <title>Neural fuzzy extractors: A secure way to use artificial neural networks for biometric user authentication</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub1/</link>
+      <pubDate>Tue, 15 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub1/</guid>
+      <description>Authors: Abhishek Jana, Md Kamruzzaman Sarker, Monireh Ebrahimi, Pascal Hitzler, George T Amariucai
+Year: 2022
+Conference/Journal: Proceedings on Privacy Enhancing Technologies, 4, 86-104.
+Link: Link to Publication
+Abstract: In this paper, we introduce a secure way to handle user-specific information involved with the use of artificial neural networks for biometric authentication. Our proposed architecture, called a Neural Fuzzy Extractor (NFE), allows the coupling of pre-existing classifiers with fuzzy extractors, through an artificial-neuralnetwork-based buffer called an expander, with minimal or no performance degradation.</description>
+    </item>
+    
+    <item>
       <title>Create a Biometric Authenticator Using Deep Learning</title>
       <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</link>
       <pubDate>Mon, 03 Jan 2022 10:58:08 -0400</pubDate>
@@ -34,6 +116,18 @@ This is one of the most critical problems in data science and machine learning. 
       <guid>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</guid>
       <description>What is biometric authentication? Biometric authentication is a mode of verifying a user based on some part of their physical features. Authentication is different from identification, where biometrics such as fingerprint, face, retina scan, etc. are used to identify a person. In authentication, biometrics are used to verify if a user is what they are claiming to be.
 Importance of biometric authenticator This is one of the most popular forms of security when it comes to digital identity.</description>
+    </item>
+    
+    <item>
+      <title>Customer Spending Pojections at Starbucks</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</link>
+      <pubDate>Thu, 11 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</guid>
+      <description>PROJECT REPORT: CUSTOMER SPENDING PROJECTIONS AT STARBUCKS CONCEPT
+The Customer Spending Projections at Starbucks project aimed to analyze Starbucks&amp;rsquo; sales data to understand customer spending patterns and provide insights for offering personalized coupons and recommendations. The project leveraged a dataset consisting of customer profiles, promotional offers, and transaction logs to gain insights into purchase decisions and offer influence.
+DATASET OVERVIEW
+The dataset comprised three files: profile.json, portfolio.json, and transcript.json. The profile file contained information about rewards program users, including gender, age, income, and membership details.</description>
     </item>
     
     <item>
@@ -48,6 +142,18 @@ Click on the image to read on Medium.</description>
     </item>
     
     <item>
+      <title>Airbnb Housing Price Analysis</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</link>
+      <pubDate>Sun, 24 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</guid>
+      <description>PROJECT REPORT: AIRBNB HOUSING PRICE ANALYSIS CONCEPT
+The Airbnb Housing Price Analysis project aimed to explore and answer key business questions related to Airbnb data in Boston and Seattle. The analysis focused on determining the cheaper place to stay, the best time to visit, the popularity of each city among visitors, and the popular areas to stay along with the recommended type of housing.
+DATA
+The project utilized datasets for Boston and Seattle from Airbnb, including listings and calendar data.</description>
+    </item>
+    
+    <item>
       <title>What is your next destination? Boston or Seattle!</title>
       <link>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-1/</link>
       <pubDate>Thu, 21 Oct 2021 10:58:08 -0400</pubDate>
@@ -57,6 +163,38 @@ Click on the image to read on Medium.</description>
 Boston, Massachusetts
 Summer High: the July high is around 82.4 degrees Winter Low: the January low is 19.2 Rain: averages 47.4 inches of rain a year Snow: averages 48.1 inches of snow a year Seattle, Washington
 Summer High: the July high is around 75.</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendation System</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</link>
+      <pubDate>Sun, 27 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</guid>
+      <description>PROJECT REPORT: BOOK RECOMMENDATION SYSTEM CONCEPT The Book Recommendation System project aims to develop a book recommendation system that suggests books to users based on their preferences. The objective is to provide personalized book recommendations using collaborative filtering.
+DATA The book data for this project is gathered from the following sources:
+Goodreads API: An API that provides access to book data, including book titles, authors, genres, ratings, and reviews. APPROACH The project utilizes the following workflows to generate book recommendations:</description>
+    </item>
+    
+    <item>
+      <title>Computer Pointer Controller</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</link>
+      <pubDate>Thu, 27 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</guid>
+      <description>PROJECT REPORT: COMPUTER POINTER CONTROLLER Computer Pointer Controller app is built using Intel OpenVINO toolkit. This app is used to control mouse pointer using our eye and head movement. We can use a recorded video stream or a webcam directly for the input.
+Project Set Up and Installation To do this project, we need to first download the OpenVINO toolkit in our local machine. Instructions can be found here.
+To activate the environment open command prompt in windows then:</description>
+    </item>
+    
+    <item>
+      <title>People Counter App</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</link>
+      <pubDate>Tue, 13 Apr 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</guid>
+      <description>PROJECT REPPORT: PEOPLE COUNTER APP Programming Language: Python 3.5 or 3.6 What it Does The people counter application will demonstrate how to create a smart video IoT solution using Intel® hardware and software tools. The app will detect people in a designated area, providing the number of people in the frame, average duration of people in frame, and total count.
+How it Works The counter will use the Inference Engine included in the Intel® Distribution of OpenVINO™ Toolkit.</description>
     </item>
     
     <item>
@@ -82,59 +220,29 @@ In other words, my goal is to recommend the best offers to the existing users. I
     </item>
     
     <item>
-      <title>Chapter VI: Esmeralda</title>
-      <link>https://abhishek-jana.github.io/aiwithabhi/projects/project-6/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      <title>Possibilities of Present Day Acceleration Using Double Scalar Field</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub5/</link>
+      <pubDate>Sun, 15 Mar 2015 11:25:05 -0400</pubDate>
       
-      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/project-6/</guid>
-      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub5/</guid>
+      <description>Authors: Abhishek Jana
+Conference/Journal: Indian Institute of Science Education and Research Kolkata
+Year: 2016
+Link: Link to Publication
+Abstract: The present work deals with a dark energy model with two scalar fields. Such a model has been proved to be successful in providing a model for in ation in the early universe. With two scalar fields, one has a better handle on the model parameters. The ultimate motivation is to use this freedom to construct a model which can drive acceleration both at early and the late time acceleration.</description>
     </item>
     
     <item>
-      <title>Chapter V: Quasimodo</title>
-      <link>https://abhishek-jana.github.io/aiwithabhi/projects/project-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <title>ScalPy: A Python Package For Late Time Scalar Field Cosmology</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/publications/pub4/</link>
+      <pubDate>Sun, 15 Mar 2015 11:25:05 -0400</pubDate>
       
-      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/project-5/</guid>
-      <description>In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion.</description>
-    </item>
-    
-    <item>
-      <title>Chapter IV: Master Jacques Coppenole</title>
-      <link>https://abhishek-jana.github.io/aiwithabhi/projects/project-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/project-4/</guid>
-      <description>While the pensioner of Ghent and his eminence were exchanging very low bows and a few words in voices still lower, a man of lofty stature, with a large face and broad shoulders, presented himself, in order to enter abreast with Guillaume Rym; one would have pronounced him a bull-dog by the side of a fox. His felt doublet and leather jerkin made a spot on the velvet and silk which surrounded him.</description>
-    </item>
-    
-    <item>
-      <title>Chapter III: Monsieur the Cardinal</title>
-      <link>https://abhishek-jana.github.io/aiwithabhi/projects/project-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
-      
-      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/project-3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that famous serpentine of the Tower of Billy, which, during the siege of Paris, on Sunday, the twenty-sixth of September, 1465, killed seven Burgundians at one blow, the explosion of all the powder stored at the gate of the Temple, would have rent his ears less rudely at that solemn and dramatic moment, than these few words, which fell from the lips of the usher, “His eminence, Monseigneur the Cardinal de Bourbon.</description>
-    </item>
-    
-    <item>
-      <title>Chapter II: Pierre Gringoire</title>
-      <link>https://abhishek-jana.github.io/aiwithabhi/projects/project-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/project-2/</guid>
-      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
-“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
-    </item>
-    
-    <item>
-      <title>Chapter I: The Grand Hall</title>
-      <link>https://abhishek-jana.github.io/aiwithabhi/projects/project-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/project-1/</guid>
-      <description>CONCEPT
-The overall objective of this project was to develop an algorithm that can be used to analyze the pattern in which cabs operate in a city to try and predict the tip can be expected per fare. The idea for this project was based on the assumption that the trip history of cab drivers when combined with demographic data about the model the tipping habits of people at different locations, different points in time, and for different kinds of trips.</description>
+      <guid>https://abhishek-jana.github.io/aiwithabhi/publications/pub4/</guid>
+      <description>Authors: Sumit Kumar, Abhishek Jana, Anjan A Sen
+Conference/Journal: arXiv preprint arXiv:1503.02407
+Year: 2015
+Link: Link to Publication
+Abstract: We present a python package &amp;ldquo;ScalPy&amp;rdquo; for studying the late time scalar field cosmology for a wide variety of scalar field models, namely the quintessence, tachyon and Galileon model. The package solves the autonomous system of equations for power law and exponential potential. But it can be easily generalized to add more complicated potential.</description>
     </item>
     
     <item>
@@ -258,7 +366,7 @@ Proficient: Python SQL (MySQL) Familiar with: R Matlab HTML CSS JavaScript PHP <
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://abhishek-jana.github.io/aiwithabhi/resume/</guid>
-      <description></description>
+      <description>To access the downloadable version: click here</description>
     </item>
     
   </channel>

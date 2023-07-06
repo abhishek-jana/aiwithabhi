@@ -18,6 +18,18 @@ This is one of the most critical problems in data science and machine learning. 
     </item>
     
     <item>
+      <title>Disaster Response Pipeline</title>
+      <link>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</link>
+      <pubDate>Sat, 23 Jul 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</guid>
+      <description>PROJECT REPORT: DISASTER RESPONSE PROJECT Web Interface CONCEPT
+The goal of the Disaster-Response-Pipeline project was to develop a machine learning pipeline that could accurately categorize emergency messages received during a disaster event. The objective was to create an automated system that could quickly identify and classify relevant messages, enabling emergency responders to prioritize and respond effectively to different types of emergencies.
+DATA
+The dataset used for this project was obtained from Figure Eight, now Appen, and consisted of labeled text messages related to various disaster scenarios.</description>
+    </item>
+    
+    <item>
       <title>NLP</title>
       <link>https://abhishek-jana.github.io/aiwithabhi/skills/nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

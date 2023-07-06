@@ -3,7 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://abhishek-jana.github.io/aiwithabhi/</loc>
-    <lastmod>2022-12-17T10:58:08-04:00</lastmod>
+    <lastmod>2023-06-27T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/movie_reco/</loc>
+    <lastmod>2023-06-27T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/tags/recommendation/</loc>
+    <lastmod>2023-06-27T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/tags/</loc>
+    <lastmod>2023-06-27T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/publications/</loc>
+    <lastmod>2023-03-30T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/publications/pub3/</loc>
+    <lastmod>2023-03-30T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/publications/pub2/</loc>
+    <lastmod>2023-01-15T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -27,11 +57,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/tags/</loc>
-    <lastmod>2022-12-17T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-4/</loc>
     <lastmod>2022-12-17T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -42,13 +67,48 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/disaster_response/</loc>
+    <lastmod>2022-07-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/tags/deep-learning/</loc>
+    <lastmod>2022-07-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/fingerprint/</loc>
+    <lastmod>2022-07-03T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/bike_share/</loc>
+    <lastmod>2022-06-27T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/tags/time-series/</loc>
+    <lastmod>2022-06-27T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/publications/pub1/</loc>
+    <lastmod>2022-03-15T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-5/</loc>
     <lastmod>2022-01-03T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/tags/deep-learning/</loc>
-    <lastmod>2022-01-03T10:58:08-04:00</lastmod>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/strabucks/</loc>
+    <lastmod>2021-11-11T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/tags/data-visualizaion/</loc>
+    <lastmod>2021-11-11T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -57,8 +117,28 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/airbnb/</loc>
+    <lastmod>2021-10-24T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-1/</loc>
     <lastmod>2021-10-21T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/book_reco/</loc>
+    <lastmod>2021-06-27T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/computer_pointer/</loc>
+    <lastmod>2021-05-27T11:14:48-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/people_counter/</loc>
+    <lastmod>2021-04-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -69,41 +149,6 @@
   </url><url>
     <loc>https://abhishek-jana.github.io/aiwithabhi/blogs/blog-3/</loc>
     <lastmod>2021-02-11T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/project-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/project-5/</loc>
-    <lastmod>2017-04-13T11:15:58-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/project-4/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/tags/scene/</loc>
-    <lastmod>2017-04-12T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/project-3/</loc>
-    <lastmod>2017-04-11T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/project-2/</loc>
-    <lastmod>2017-04-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/projects/project-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -119,6 +164,16 @@
   </url><url>
     <loc>https://abhishek-jana.github.io/aiwithabhi/skills/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/publications/pub5/</loc>
+    <lastmod>2015-03-15T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://abhishek-jana.github.io/aiwithabhi/publications/pub4/</loc>
+    <lastmod>2015-03-15T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -179,10 +234,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://abhishek-jana.github.io/aiwithabhi/skills/programming/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://abhishek-jana.github.io/aiwithabhi/publications/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
